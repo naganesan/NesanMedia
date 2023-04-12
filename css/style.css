@@ -148,6 +148,11 @@ p.bold{
    
 }
 
+.contact a{
+    text-decoration: none;
+    color: white;
+}
+
 .icons{
     margin-top: 20px;
 }
