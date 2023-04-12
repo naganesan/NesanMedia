@@ -157,6 +157,11 @@ p.bold{
     
 }
 
+.icon{
+    width: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
 
 
 /* desktop */
